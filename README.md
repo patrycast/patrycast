@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Soy Patricia Castillo</h1>
 <h2>👩🏾‍💻 Estudiante de la carrera Técnico Superior en Programación</h2>
 <h2>💻 Cursando Programación FullStack</h2>
