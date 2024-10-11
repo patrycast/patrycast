@@ -17,5 +17,13 @@
 </p>
 
 
-<small>patrycast81@gmail.com</small>
+
+<h3>Lenguajes:</h3>
+<p> HTML5 | CSS3 | JavasCript | Python | C++ | </p>
+
+
+
+<h3>Contacto:</h3>
+<p>www.linkedin.com/in/patricastillo</p>
+<p>patrycast81@gmail.com</p>
 
