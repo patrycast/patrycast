@@ -1,16 +1,19 @@
 ## Hi there 👋
+<h1>Soy Patricia Castillo</h1>
+<h2>👩🏾‍💻 Estudiante de la carrera Técnico Superior en Programación</h2>
+<h2>💻 Cursando Programación FullStack</h2>
 
-<!--
-**patrycast/patrycast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>Acerca de Mí</h3>
+<p>Desarrolladora en constante evolución, apasionada por la tecnología y el aprendizaje continuo.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Mi camino en el mundo IT comenzó durante la pandemia, cuando descubrí mi pasión por la programación. Desde entonces, he realizado formaciones clave como cursos en la UTN y he cursado la tecnicatura en Desarrollo Web y Aplicaciones Digitales en el ISPC.</p> 
+<p>En 2024, tras superar algunos desafíos personales, retomé mis clases de Programación FullStack  y comencé la carrera de Técnico Superior en Programación.</p>
+
+<p>A lo largo de este viaje, he aprendido no solo a dominar nuevas tecnologías, sino también a perseverar. Mi compromiso con el código y el desarrollo web es lo que me impulsa a seguir creciendo día a día. Me motiva enfrentar nuevos desafíos, mejorar mis habilidades y contribuir con soluciones innovadoras.</p>
+
+<p>Estoy abierta a nuevas oportunidades que me permitan seguir evolucionando como desarrolladora y aportar mi pasión por el desarrollo tecnológico en proyectos que impacten positivamente.</p>
+
+<p>¡Siempre lista para el próximo reto!</p>
+</p>
+
