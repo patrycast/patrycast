@@ -25,7 +25,7 @@
 
 
 <h3>Contacto:</h3>
- <span>   https://beacons.ai/patriciacastillo</span>
+ <span> https://beacons.ai/patriciacastillo</span>
 <p>www.linkedin.com/in/patricastillo</p> 
 <p>patrycast81@gmail.com</p>
 
