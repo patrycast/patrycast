@@ -1,6 +1,7 @@
-<h1>Soy Patricia Castillo</h1>
+<h1>Soy Patricia Castillo    <span>   https://beacons.ai/patriciacastillo</span></h1> 
 <h2>👩🏾‍💻 Estudiante de la carrera Técnico Superior en Programación</h2>
 <h2>💻 Cursando Programación FullStack</h2>
+
 
 
 <h3>Acerca de Mí</h3>
