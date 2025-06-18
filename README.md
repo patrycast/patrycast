@@ -20,7 +20,7 @@
 
 
 <h3>Lenguajes:</h3>
-<p> HTML5 | CSS3 | JavasCript | Python | C++ | </p>
+<p> HTML5 | CSS3 | Javascript | Python | React | </p>
 
 
 
