@@ -1,6 +1,6 @@
 <h1>Soy Patricia Castillo   </h1> 
-<h2>👩🏾‍💻 Estudiante de la carrera Técnico Superior en Programación</h2>
-<h2>💻 Cursando Programación FullStack</h2>
+<h2>👩🏾‍💻 Técnica Superior en Programación</h2>
+<h2>💻 Programación FullStack</h2>
 
 
 
@@ -20,7 +20,7 @@
 
 
 <h3>Lenguajes:</h3>
-<p> HTML5 | CSS3 | Javascript | Python | React | </p>
+<p> HTML5 | CSS3 | Javascript | Python | React | Node.js | Firebase </p>
 
 
 
